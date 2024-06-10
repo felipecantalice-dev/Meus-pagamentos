@@ -2,7 +2,7 @@
 
 Tendo uma lista de pagamentos a serem pagos, encontre todos os itens que estão contidos na lista, onde somados equivalem a um valor k, onde k é o que o pagador quer pagar.
 
-![Descrição do funcionamento](images\screen1.png)
+![Descrição do funcionamento](images/screen1.png)
 
 ## Algoritmo
 1. Iniciar um loop de i=0 até o tamanho da lista. 
